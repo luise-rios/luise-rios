@@ -26,9 +26,10 @@ Linguagens trabalhadas até agora:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&layout=compact&theme=tokyonight" alt="luise rios" />
-</p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luise-rios&count_private=true&show_icons=true&theme=tokyonight&icon_color=268bd2&title_color=268bd2" alt="luise rios" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luise-rios&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&theme=tokyonight&layout=compact" />
+</a>
+

@@ -1,6 +1,6 @@
 Olá! 👋
 
-Meu nome é Luíse Rios, sou brasileira e carioca e há alguns meses vivo na paz da cidade de Teresópolis🌱, na região serrana do estado do Rio de Janeiro, Brasil. 
+Meu nome é Luíse Rios, sou brasileira, carioca e há alguns meses vivo na paz da cidade de Teresópolis🌱, na região serrana do estado do Rio de Janeiro, Brasil. 
 
 Estudo Desenvolvimento de Software na Trybe🚀, onde terminei o módulo de Front-End e estou começando Back-End em fevereiro/2021. Aqui na página estão os projetos que desenvolvo no curso.
 
@@ -25,11 +25,3 @@ Linguagens trabalhadas até agora:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luise-rios&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&theme=tokyonight&layout=compact" />
-</a>
-

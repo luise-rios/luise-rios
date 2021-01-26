@@ -27,7 +27,7 @@ Linguagens trabalhadas até agora:
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&layout=compact&theme=tokyonight_color=268bd2" alt="luise rios" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&layout=compact&theme=tokyonight" alt="luise rios" />
 </p>
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luise-rios&count_private=true&show_icons=true&theme=tokyonight&icon_color=268bd2&title_color=268bd2" alt="luise rios" />

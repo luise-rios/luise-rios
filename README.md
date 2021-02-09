@@ -1,10 +1,10 @@
 Olá! 👋
 
-Meu nome é Luíse Rios, sou brasileira, carioca e há alguns meses vivo na paz da cidade de Teresópolis🌱, na região serrana do estado do Rio de Janeiro, Brasil. 
+Meu nome é Luíse Rios, sou carioca e vivo há alguns meses na paz da cidade de Teresópolis🌱, na região serrana do estado do Rio de Janeiro, Brasil. 
 
-Estudo Desenvolvimento de Software na Trybe🚀, onde terminei o módulo de Front-End e estou começando Back-End em fevereiro/2021. Aqui na página estão os projetos que desenvolvo no curso.
+Estudo Desenvolvimento de Software na Trybe🚀, onde terminei o módulo de Front-End e estou começando Back-End em fevereiro/2021. Aqui na página estão alguns dos projetos que desenvolvi no curso.
 
-📫 Me envie um e-mail: luisemiranda@gmail.com ou me encontre em:
+📫 Me envie um e-mail: luisemiranda@gmail.com ou me encontre aqui:
 
 <a href="https://www.linkedin.com/in/luise-rios/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
@@ -16,7 +16,7 @@ Estudo Desenvolvimento de Software na Trybe🚀, onde terminei o módulo de Fron
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
 
-Linguagens trabalhadas até agora:
+Linguagens:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 

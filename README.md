@@ -17,7 +17,6 @@ Estudo Desenvolvimento de Software na Trybe🚀. Terminei o módulo de Front-End
 <a href="https://www.facebook.com/luisemiranda86/" target="_blank">
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
-<a href="https://twitter.com/luisemiranda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luisemiranda" height="48" width="48" /></a>
 
 Linguagens:
 

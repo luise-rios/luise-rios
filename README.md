@@ -4,7 +4,7 @@ Meu nome é Luíse.
 
 Sou carioca, mas cansei do caos do Rio e vivo há alguns meses na paz da cidade de Teresópolis🌱, na região serrana do estado do RJ. 
 
-Estudo Desenvolvimento de Software na Trybe🚀. Terminei o módulo de Front-End e atualmente estou em Back-End. Aqui na página estão pinados alguns dos projetos que desenvolvi no curso.
+Estudo Desenvolvimento de Software na Trybe🚀. Aqui na página estão pinados alguns dos projetos que desenvolvi no curso.
 
 📫 Me envie um e-mail: luisemiranda@gmail.com ou me encontre aqui:
 

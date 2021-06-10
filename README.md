@@ -2,7 +2,7 @@ Hi! 👋
 
 My name is Luíse.
 
-I'm carioca (I was born in Rio), but i got tired of the caos from Rio and I live for a few months in the peace of Teresópolis🌱, in Mountain Region of the state of Rio de Janeiro.
+I'm carioca (I was born in Rio), but i got tired of the caos from Rio and I live for a few months in the peace of Teresópolis🌱, in Mountain Zone of the state of Rio de Janeiro.
 
 I study Software Development at Trybe 🚀. The projects I developed during the course are in this page.
 

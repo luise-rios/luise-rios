@@ -47,9 +47,9 @@ To get here, I studied Web Software Development at
 
   ---
 <div>
-  <img height="150em" width="400em" src="//github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&layout=compact&theme=prussian" />
+  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&layout=compact&theme=prussian"/>
 
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=luise-rios&theme=prussian&show_icons=true&locale=en" alt="luise-rios" />
+  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=luise-rios&theme=prussian&show_icons=true&locale=en"/>
 </div>
 
 

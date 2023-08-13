@@ -1,8 +1,7 @@
-Hi! 👋
+Hi there, I'm Luíse 👋
 
-My name is Luíse.
 
-I'm a Backend Software Engineer at 
+Backend Software Engineer at 
 <a href="https://www.ze.delivery/">
   <span> Zé Delivery  &#127866;</span>
 </a>
@@ -15,41 +14,28 @@ To get here, I studied Web Software Development at
 ---
 ### Contact
 
-<a href="https://www.linkedin.com/in/luise-rios/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60px" height="50px">
-</a>
-<a href="https://www.instagram.com/luisemiranda/">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="50px" height="50px">
-</a> 
+<div>
+<a href="https://instagram.com/luisemiranda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luise-rios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ---
 ### Stacks
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="60"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="60"/> 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="60"/> 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="60"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#0" width="50" height="60"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="60"/> 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="60"/> 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="60"/> 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="60"/> 
-</div>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
   ---
 <div>
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&layout=compact&theme=prussian"/>
-
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=luise-rios&theme=prussian&show_icons=true&locale=en"/>
+<a href="https://github.com/luise-rios">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luise-rios&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luise-rios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 

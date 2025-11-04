@@ -6,11 +6,6 @@ Backend Software Engineer at
   <span> Zé Delivery  &#127866;</span>
 </a>
 
-To get here, I studied Web Software Development at
-<a href="https://www.betrybe.com/">
-  <span> Trybe 🚀</span>
-</a>
-
 ---
 ### Contact
 
